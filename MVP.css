@@ -2,4 +2,6 @@ body {background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
 background-size:1700px 1500px; 
 background-repeat: no-repeat;}
 a:hover {color:#2a00ff}
-
+.boxed {
+  border: 25px solid blue ;
+}
