@@ -2,3 +2,10 @@ body {background-image: url("http://bloximages.chicago2.vip.townnews.com/normant
  a:hover {color:#2a00ff}
 .boxed {
  border: 15px solid blue ;}
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
